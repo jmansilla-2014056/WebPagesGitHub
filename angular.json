@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WebPagesGitHub"
+    }
+  },
+  "defaultProject": "WebPagesGitHub",
+  "cli": {
+    "analytics": "d245aa29-5869-479b-8b06-5ae2377a5fe5"
+  }
 }
